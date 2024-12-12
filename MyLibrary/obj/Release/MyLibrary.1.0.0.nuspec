@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyLibrary</id>
+    <version>1.0.0</version>
+    <authors>Surya Prakash Vadivel</authors>
+    <description>A simple library for demonstration purposes</description>
+    <tags>example library</tags>
+    <repository type="git" url="https://github.com/suryavmds/nuget-package" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/bin/Release/net8.0/MyLibrary.dll" target="lib/net8.0/MyLibrary.dll" />
+  </files>
+</package>

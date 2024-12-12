@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>MyLibrary</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Surya Prakash Vadivel</Authors>
+    <Description>A simple library for demonstration purposes</Description>
+    <PackageTags>example;library</PackageTags>
+    <Company>Cambrian College</Company>
+    <RepositoryUrl>https://github.com/suryavmds/nuget-package</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

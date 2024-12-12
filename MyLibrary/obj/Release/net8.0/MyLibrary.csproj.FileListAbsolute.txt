@@ -1,0 +1,11 @@
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/bin/Release/net8.0/MyLibrary.deps.json
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/bin/Release/net8.0/MyLibrary.dll
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/bin/Release/net8.0/MyLibrary.pdb
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/MyLibrary.AssemblyInfoInputs.cache
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/MyLibrary.AssemblyInfo.cs
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/MyLibrary.csproj.CoreCompileInputs.cache
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/MyLibrary.dll
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/refint/MyLibrary.dll
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/MyLibrary.pdb
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/nuget-package/MyNuGetPackage/MyLibrary/obj/Release/net8.0/ref/MyLibrary.dll
